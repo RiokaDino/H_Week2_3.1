@@ -1,0 +1,15 @@
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.csproj.AssemblyReference.cache
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.AssemblyInfoInputs.cache
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.AssemblyInfo.cs
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.csproj.CoreCompileInputs.cache
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\bin\Debug\net7.0\Homework2_3.1.exe
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\bin\Debug\net7.0\Homework2_3.1.deps.json
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\bin\Debug\net7.0\Homework2_3.1.runtimeconfig.json
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\bin\Debug\net7.0\Homework2_3.1.dll
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\bin\Debug\net7.0\Homework2_3.1.pdb
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.dll
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\refint\Homework2_3.1.dll
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.pdb
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\Homework2_3.1.genruntimeconfig.cache
+D:\All\Education\P2T2\GDM222\Code\Homework2_3.1\obj\Debug\net7.0\ref\Homework2_3.1.dll
